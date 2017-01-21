@@ -7,3 +7,5 @@ only master here!
 some bash changes 2
 
 some bash changes github
+
+PS: *MASTER*
