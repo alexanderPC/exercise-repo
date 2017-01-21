@@ -1,3 +1,3 @@
 # exercise-repo
 exercise repository tGit - tort!
-exercise repository tGit
+exercise repository tGit - Bash!
