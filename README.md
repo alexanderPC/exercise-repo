@@ -1,2 +1,2 @@
 # exercise-repo
-exercise repository
+exercise repository tGit
