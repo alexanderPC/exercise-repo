@@ -1,8 +1,5 @@
 # exercise-repo
-exercise repository tGit - tort!
-exercise repository tGit - Bash!
-<<<<<<< HEAD
-master changes!
-=======
-develop branch changes!
->>>>>>> develop
+exercise repository - tort!
+exercise repository - Bash!
+develop brach deleted!
+only master here!
